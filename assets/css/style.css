@@ -21,7 +21,7 @@ Last change:	27 August 2015
 12. Typography
 13. Section header
 14. Portfolio
-15. Icon box
+15. Icon box-shadow: 
 16. Article box
 17. Blockquote
 18. Lists
@@ -7593,146 +7593,146 @@ p.lead {
 a:hover,
 a:focus,
 a:active {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-u-colorMotive {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-u-backgroundMotive {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .ct-heart.ct-heart--beating {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-link.ct-link--inherit:hover,
 .ct-link.ct-link--inherit:active,
 .ct-link.ct-link--inherit:focus {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-widget .ct-widget-title:before {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .widget .widget-inner .widget-title:before {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .widget .widget-inner ul li a:hover,
 .widget .widget-inner ul li a:active,
 .widget .widget-inner ul li a:focus {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-list--type1 > li > a:hover,
 .ct-list--type1 > li > a:active,
 .ct-list--type1 > li > a:focus {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-icon--motive li i {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-list--withArrow li span {
-  border: 2px solid #f77345;
+  border: 2px solid #F8C301;
 }
 .ct-list--withArrow li span i {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-dividerBlock {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .ct-sectionHeader.ct-sectionHeader--type1 .ct-sectionHeader-title:before {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .ct-gallery-filters li.active {
-  background-color: #f77345;
-  border-color: #f77345;
+  background-color: #F8C301;
+  border-color: #F8C301;
 }
 .ct-gallery-filters li:hover,
 .ct-gallery-filters li:active,
 .ct-gallery-filters li:focus {
-  background-color: #f77345;
-  border-color: #f77345;
+  background-color: #F8C301;
+  border-color: #F8C301;
 }
 .ct-gallery .ct-gallery-item .ct-galleryBox figure figcaption .ct-galleryBox-price {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-iconBox.ct-iconBox--circle .ct-iconBox-icon {
-  color: #f77345;
-  border-color: #f77345;
-  border-top: solid 1px #f77345;
-  border-left: solid 1px #f77345;
-  border-right: solid 1px #f77345;
-  border-bottom: solid 1px #f77345;
+  color: #F8C301;
+  border-color: #F8C301;
+  border-top: solid 1px #F8C301;
+  border-left: solid 1px #F8C301;
+  border-right: solid 1px #F8C301;
+  border-bottom: solid 1px #F8C301;
 }
 .ct-iconBox.ct-iconBox--circle:hover .ct-iconBox-icon {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .ct-iconBox.ct-iconBox--type2.ct-iconBox--motive .ct-iconBox-icon {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-articleBox a figure figcaption .ct-articleBox-date {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-articleBox.ct-articleBox--type2 .ct-articleBox-meta {
-  color: #f77345;
+  color: #F8C301;
 }
 .btn-primary {
-  background-color: #f77345;
-  border-color: #f77345;
+  background-color: #F8C301;
+  border-color: #F8C301;
 }
 .btn-primary:hover span,
 .btn-primary:focus span,
 .btn-primary:active span {
-  background-color: #f77345;
-  border-color: #f77345;
+  background-color: #F8C301;
+  border-color: #F8C301;
 }
 .btn-link:hover,
 .btn-link:active,
 .btn-link:focus {
-  color: #f77345;
+  color: #F8C301;
 }
 .btn-link:hover span,
 .btn-link:active span,
 .btn-link:focus span {
-  color: #f77345;
+  color: #F8C301;
 }
 .btn-default {
-  border-color: #f77345;
-  color: #f77345;
+  border-color: #F8C301;
+  color: #F8C301;
 }
 .btn-default:hover,
 .btn-default:active,
 .btn-default:focus {
-  background-color: #f77345;
-  border-color: #f77345;
+  background-color: #F8C301;
+  border-color: #F8C301;
 }
 .btn-default span {
-  color: #f77345;
-  border-top: solid 1px #f77345;
-  border-left: solid 1px #f77345;
-  border-right: solid 1px #f77345;
-  border-bottom: solid 1px #f77345;
+  color: #F8C301;
+  border-top: solid 1px #F8C301;
+  border-left: solid 1px #F8C301;
+  border-right: solid 1px #F8C301;
+  border-bottom: solid 1px #F8C301;
 }
 .ct-slick.ct-slick-dots--type1 .slick-dots li button:hover {
   background-color: rgba(247, 115, 69, 0.9);
 }
 .ct-slick.ct-slick-dots--type1 .slick-dots li.slick-active button {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .ct-slick.ct-slick-dots--type2 .slick-dots .slick-active button {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .ct-slick.ct-slick-arrows--type2 .slick-prev:hover:before,
 .ct-slick.ct-slick-arrows--type2 .slick-next:hover:before {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-slick.ct-slick-arrows--type3.ct-slick-arrows--motive .slick-prev:hover,
 .ct-slick.ct-slick-arrows--type3.ct-slick-arrows--motive .slick-next:hover {
-  border-color: #f77345;
+  border-color: #F8C301;
 }
 .ct-slick.ct-slick-arrows--type3.ct-slick-arrows--motive .slick-prev:hover:before,
 .ct-slick.ct-slick-arrows--type3.ct-slick-arrows--motive .slick-next:hover:before {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-bookingBox-fix:before {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .ct-bookingBox-fix:after {
   border-color: transparent transparent transparent #f6612d;
@@ -7741,7 +7741,7 @@ a:active {
   background-color: rgba(247, 115, 69, 0.9);
 }
 .ct-imageBox.ct-imageBox--gradient figcaption .ct-imageBox-content .ct-imageBox-title:before {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .ct-imageBox.ct-imageBox--type4:hover:after {
   background-color: rgba(247, 115, 69, 0.7);
@@ -7750,99 +7750,99 @@ a:active {
   background-color: rgba(247, 115, 69, 0.9);
 }
 .ct-accordion .panel-group .panel .panel-heading .panel-title a {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .ct-accordion .panel-group .panel .panel-heading .panel-title a:before {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-accordion .panel-group .panel .panel-heading .panel-title a:hover {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .ct-accordion .panel-group .panel .panel-heading .panel-title a.collapsed:after {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .ct-accordion .panel-group .panel .panel-heading .panel-title a.collapsed:hover {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .ct-accordion .panel-group .panel .panel-heading .panel-title a.collapsed:hover:before {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-pricingBox .ct-pricingBox-content i {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-pricingBox .ct-pricingBox-footer {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .ct-pricingBox .ct-pricingBox-footer svg {
-  fill: #f77345;
+  fill: #F8C301;
 }
 .ct-pricingBox.ct-pricingBox--special .ct-pricingBox-tooltip {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .ct-pricingBox.ct-pricingBox--special .ct-pricingBox-tooltip:before {
-  border-color: #f77345 transparent transparent transparent;
+  border-color: #F8C301 transparent transparent transparent;
 }
 .ct-pricingBox.ct-pricingBox--switchColors .ct-pricingBox-header {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .ct-testimonials .ct-testimonials-description {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .ct-testimonials .ct-testimonials-description:before {
-  border-color: transparent transparent transparent #f77345;
+  border-color: transparent transparent transparent #F8C301;
 }
 .ct-testimonials .ct-testimonials-description .ct-testimonials-textContent .ct-testimonials-header {
   border-bottom: 1px solid #f9906c;
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
 .ct-productBox .media-body .ct-productBox-price {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-galleryContainer figcaption .ct-galleryContainer-inStock {
-  color: #f77345;
+  color: #F8C301;
 }
 .mfp-arrow.mfp-arrow-left:before,
 .mfp-arrow.mfp-arrow-right:before {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-blockquote.ct-blockquote--motive {
-  border-left: 8px solid #f77345;
+  border-left: 8px solid #F8C301;
 }
 .pagination.pagination--small li a:hover {
-  color: #f77345;
+  color: #F8C301;
 }
 .pagination.pagination--small > .active > a {
-  color: #f77345;
+  color: #F8C301;
 }
 .checkbox input[type=checkbox]:checked + label:before,
 .radio input[type=checkbox]:checked + label:before,
 .checkbox input[type=checkbox]:checked + label,
 .radio input[type=checkbox]:checked + label {
-  border-color: #f77345;
-  color: #f77345;
+  border-color: #F8C301;
+  color: #F8C301;
 }
 .checkbox input[type=radio]:checked + label:before,
 .radio input[type=radio]:checked + label:before,
 .checkbox input[type=radio]:checked + label,
 .radio input[type=radio]:checked + label {
-  border-color: #f77345;
-  color: #f77345;
+  border-color: #F8C301;
+  color: #F8C301;
 }
 .checkbox input[type=checkbox] + label:hover,
 .radio input[type=checkbox] + label:hover,
 .checkbox input[type=radio] + label:hover,
 .radio input[type=radio] + label:hover {
-  color: #f77345;
+  color: #F8C301;
 }
 .datepicker table tr td.today {
-  background-color: #f77345;
-  border-color: #f77345;
+  background-color: #F8C301;
+  border-color: #F8C301;
 }
 .datepicker table tr td.today:hover:hover,
 .datepicker table tr td.today:active,
 .datepicker table tr td.today:focus {
-  background-color: #f77345;
-  border-color: #f77345;
+  background-color: #F8C301;
+  border-color: #F8C301;
 }
 .datepicker table tr td.active.active {
   background-color: #f9906c;
@@ -7855,76 +7855,76 @@ a:active {
   border-color: #f9906c;
 }
 .ct-menuMobile .ct-menuMobile-navbar li.open > a {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-menuMobile .ct-menuMobile-navbar li a:hover {
-  color: #f77345;
+  color: #F8C301;
 }
 .navbar .navbar-nav > li:not(.active) > a:hover {
-  color: #f77345;
+  color: #F8C301;
 }
 .navbar .navbar-nav > li.active > a .active-link {
-  border-color: #f77345;
+  border-color: #F8C301;
 }
 .navbar .navbar-nav > li.active > a .active-link i {
-  color: #f77345;
+  color: #F8C301;
 }
 nav.navbar ul.nav.navbar-nav > li.active.dropdown > .dropdown-menu > li.active > a {
-  color: #f77345;
+  color: #F8C301;
 }
 nav.navbar ul.nav.navbar-nav > li.active.dropdown > .dropdown-menu > li.active > ul.dropdown-menu > li.active a {
-  color: #f77345;
+  color: #F8C301;
 }
 nav.navbar.navbar-default ul.nav.navbar-nav > li.dropdown .dropdown-menu,
 nav.navbar.navbar-fixed ul.nav.navbar-nav > li.dropdown .dropdown-menu {
-  border-top: 2px solid #f77345;
+  border-top: 2px solid #F8C301;
 }
 nav.navbar.navbar-default ul.nav.navbar-nav > li.dropdown .dropdown-menu li a:hover,
 nav.navbar.navbar-fixed ul.nav.navbar-nav > li.dropdown .dropdown-menu li a:hover {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-progressBar .progress .progress-bar {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .ct-progressBar.ct-progressBar--type3 .progress .progress-bar .ct-progressBar-content {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .ct-tabs.ct-tabs--type1 .nav-tabs li a:hover {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .ct-tabs.ct-tabs--type1 .nav-tabs li.active a {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .ct-tabs.ct-tabs--type2 .nav-tabs li.active a {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .ct-tabs.ct-tabs--type2 .nav-tabs li a:hover {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-tabs.ct-tabs--type2 .nav-tabs li a:hover .nav-tabs-title {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-tabs.ct-tabs--type2 .nav-tabs li:before {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .ct-counterBox-icon .ct-counter-icon {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .ct-counterBox-icon .ct-counter-content .ct-counter-description {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-counterBox .ct-counter-content .ct-counter-description {
-  color: #f77345;
+  color: #F8C301;
 }
 .table thead tr {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 fieldset[disabled] .btn-primary {
-  border-color: #f77345;
-  background-color: #f77345;
+  border-color: #F8C301;
+  background-color: #F8C301;
 }
 .form-control:focus {
-  border-color: #f77345;
+  border-color: #F8C301;
 }
 .contactForm .selectize-dropdown.single .selectize-dropdown-content div:hover {
   background-color: rgba(247, 115, 69, 0.1);
@@ -7933,35 +7933,35 @@ fieldset[disabled] .btn-primary {
   background-color: rgba(247, 115, 69, 0.1);
 }
 ::-moz-selection {
-  background: #f77345;
+  background: #F8C301;
 }
 ::selection {
-  background: #f77345;
+  background: #F8C301;
 }
 .ct-socials.ct-socials--type2 li a:hover {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .ct-personBox.ct-personBox--type1 .ct-personBox-job,
 .ct-personBox.ct-personBox--type2 .ct-personBox-job {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-personBox.ct-personBox--type2 {
   text-align: center;
 }
 .ct-personBox.ct-personBox--type2 .ct-personBox-header:after {
-  border-top: 10px solid #f77345;
+  border-top: 10px solid #F8C301;
 }
 .ct-articleBox.ct-articleBox--type3 .media-body .ct-articleBox-meta {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-map-popover .ct-map-popover_cords-item {
   border-radius: 50%;
 }
 .ct-map-popover .ct-map-popover_cords-item:before {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 .popover .popover-title {
-  background-color: #f77345;
+  background-color: #F8C301;
 }
 header {
   position: relative;
@@ -8336,7 +8336,7 @@ header .ct-sectionHeader.ct-sectionHeader--type1 .ct-sectionHeader-title:before 
 .ct-iconBox.ct-iconBox--circle:not(.ct-iconBox2):hover .ct-iconBox-icon {
   z-index: 1;
   color: #ffffff !important;
-  background: #f77345 !important;
+  background: #F8C301 !important;
 }
 .ct-iconBox.ct-iconBox--circle:not(.ct-iconBox2):hover .ct-iconBox-linkHelper {
   -moz-opacity: 1;
@@ -11044,7 +11044,7 @@ textarea.form-control {
   padding-left: 2px;
 }
 .ct-address i {
-  color: #f77345;
+  color: #F8C301;
 }
 .ct-galleryContainer {
   position: relative;
@@ -11719,7 +11719,7 @@ textarea.form-control {
   display: none;
 }
 .pace .pace-progress {
-  background: #f77345;
+  background: #F8C301;
   position: fixed;
   z-index: 2000;
   top: 0;
